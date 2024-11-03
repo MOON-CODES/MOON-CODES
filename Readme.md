@@ -20,7 +20,7 @@ My Profile
 -------------------------------
 Name: MOON LIGHT.
 WhoamI: High School Student 🏫.
-Gender: Male.
+Gender: Female.
 Location: Chandigarh, India.
 Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening music 🎶.
@@ -84,19 +84,19 @@ So I do my best in every specialtation area. My programming languages are Python
 <h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
 <div> 
 <p align = "center">
-  <a href="https://github.com/KSKOP69"><img alt="KSK's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=KSKOP69&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" width="49%"/></a>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KSKOP69&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak" width="49%"/></a>
-  <a herf="https://github.com/KSKOP69/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KSKOP69&no-bg=true&margin-w=15&margin-h=10&row=1&column=8&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Trophies" width="90%"/></a><br>
-  <a href="https://github.com/KSKOP69"><img alt="KSK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSKOP69&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/KSKOP69"><img alt="KSK's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KSKOP69&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
+  <a href="https://github.com/MOON-CODES"><img alt="MOON's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MOON-CODES&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" width="49%"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MOON-CODES&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak" width="49%"/></a>
+  <a herf="https://github.com/MOON-CODES/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MOON-CODES&no-bg=true&margin-w=15&margin-h=10&row=1&column=8&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Trophies" width="90%"/></a><br>
+  <a href="https://github.com/MOON-CODES"><img alt="MOON's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOON-CODES&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/MOON-CODES"><img alt="MOON's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MOON-CODES&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
 </p>
 </div>
 <br>
 
 <h2 align="center"> My contributions game 🐍🎮</h2>
 
-![](https://raw.githubusercontent.com/KSKOP69/KSKOP69/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/KSKOP69/KSKOP69/output/github-contribution-grid-snake.svggh-light-mode-only)
+![](https://raw.githubusercontent.com/MOON-CODES/MOON-CODES/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MOON-CODES/MOON-CODES/output/github-contribution-grid-snake.svggh-light-mode-only)
 <br>
 
 
@@ -115,14 +115,14 @@ So I do my best in every specialtation area. My programming languages are Python
 <div>
 <h2 align="center">View counter 👀</h2>
 <div align="center">
-<img src="https://moe-counter.glitch.me/get/@KSKOP69?theme=gelbooru" />
+<img src="https://moe-counter.glitch.me/get/@MOON-CODES?theme=gelbooru" />
   </div>
 <br>
 
 <details>
   <summary><h2>A Quote from a random Developer 💭</h2></summary>
   <div align="center">
-    <a href="https://github.com/KSKOP69/KSKOP69">
+    <a href="https://github.com/MOON-CODES/MOON-CODES">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Readme Quotes">
     </a>
   </div>
@@ -137,9 +137,9 @@ So I do my best in every specialtation area. My programming languages are Python
     <br>
     <table>
       <tr>
-        <td><a href="https://www.instagram.com/notyourksk"><img width="25" src="https://static.cdnlogo.com/logos/i/28/instagram.png"><b>@NotYourKSK</b></a></td>
-        <td><a href="https://discord.com/users/593308295146504192"><img width="25" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"><b>KSK #1149</b></a></td>
-        <td><a href="https://telegram.dog/everyonexksk"><img width="25" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"><b>@EVERYONExKSK</b></a></td>
+        <td><a href="https://www.instagram.com/notyourksk"><img width="25" src="https://static.cdnlogo.com/logos/i/28/instagram.png"><b>@kakashimina02</b></a></td>
+        <td><a href="https://discord.com/users/593308295146504192"><img width="25" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"><b>moon #1149</b></a></td>
+        <td><a href="https://telegram.dog/everyonexksk"><img width="25" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"><b>@untold_coder4</b></a></td>
       </tr>
     </table>
   </div>
