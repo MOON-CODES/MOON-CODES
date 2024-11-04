@@ -28,6 +28,7 @@ Learning: Computer Science.
      
 <div>
 <h2 align="center"> 🔎 Knowledge 📖 </h2>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>         
 </div>
 <div align = "center">
 <p align = "justify"><b>A Self-taught Developer from India who loves to work with Python, Css and Html. A year ago, I learned Html and Css, also some reverse engineering to develop apps and telegram bots. Nowdays, I focus on Computer Science.
