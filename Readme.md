@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines= Hi 👋, I'm 🇲σ᭡፝֟ɳ🌙">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=Hi+I'm+🇲σ᭡፝֟ɳ🌙">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
          <img src="https://readme-typing-svg.herokuapp.com?color=33DD33&width=500&lines=🦋A+Passionate+Developer+From+India🌙">
 <img align="middle" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
