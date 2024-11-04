@@ -1,4 +1,9 @@
-<h1 align="center">✨ Hi there I'm MOON-CODES <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<h1 align="center">Hi 👋, I'm 🇲σ᭡፝֟ɳ🌙</h1>
+         <img src="https://readme-typing-svg.herokuapp.com?color=33DD33&width=500&lines=🦋A+Passionate+Developer+From+India🌙">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moonshining1&label=Profile%20views&color=0e75b6&style=flat" alt="moonshining1" /> </p>
+
 
 <body>
 <br>
