@@ -2,15 +2,7 @@
          <img src="https://readme-typing-svg.herokuapp.com?color=33DD33&width=500&lines=🦋A+Passionate+Developer+From+India🌙">
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moonshining1&label=Profile%20views&color=0e75b6&style=flat" alt="moonshining1" /> </p>
-
-
-<body>
-<br>
-<div align="center">
-<img src="https://media1.tenor.com/m/35W-9kJ5aXkAAAAC/luffy-yo.gif" width="300px">
-</div>
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moonshining1&label=Profile%20views&color=0e75b6&style=flat" alt="moonshining1" /> </p
 
 <h2 align="center"> 💬 About me 👁️‍🗨️ </h2>
 
