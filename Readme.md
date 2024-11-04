@@ -37,6 +37,7 @@ So I do my best in every specialtation area. My programming languages are Python
 </p>
 
 <h2 align="center"><b>⚒️ Languages-Frameworks-Tools 🛠️</b></h2>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="left">Languages</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> </a> 
@@ -80,6 +81,7 @@ So I do my best in every specialtation area. My programming languages are Python
 <br>
 
 <h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div> 
 <p align = "center">
   <a href="https://github.com/MOON-CODES"><img alt="MOON's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MOON-CODES&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" width="49%"/></a>
@@ -92,6 +94,7 @@ So I do my best in every specialtation area. My programming languages are Python
 <br>
 
 <h2 align="center"> My contributions game 🐍🎮</h2>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![](https://raw.githubusercontent.com/MOON-CODES/MOON-CODES/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MOON-CODES/MOON-CODES/output/github-contribution-grid-snake.svggh-light-mode-only)
@@ -102,6 +105,7 @@ So I do my best in every specialtation area. My programming languages are Python
 <br>
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div>
 <img src="https://raw.githubusercontent.com/huy232/huy232/main/image/2.gif" align="center" />
   </div>
@@ -145,3 +149,6 @@ So I do my best in every specialtation area. My programming languages are Python
 <br>
 
 <hr>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
