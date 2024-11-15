@@ -16,9 +16,9 @@
 My Profile
 -------------------------------
 Name: MOON LIGHT.
-WhoamI: High School Student 🏫.
-Gender: Female.
-Location: Chandigarh, India.
+WhoamI:  IIT Student 🏫.
+Gender: male.
+Location: patna, India.
 Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening music 🎶.
 Languages: CPlusPlus, CSharp, Css, Html, Python.
